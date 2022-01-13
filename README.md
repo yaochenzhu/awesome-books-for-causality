@@ -29,7 +29,7 @@ A non-complete list of books to understand causality from Pearl and Rubin's pers
 
 ### 
 
-## Disputes Between Pearl and Rubin
+## Disputes between Pearl and Rubin
  Not necessarily books. Posts and papers are included.
 
 ### From Andrew Gelman (Students of Rubin, now Prof. at Columbia U.)
