@@ -35,7 +35,7 @@ A non-complete list of books to understand causality from Pearl and Rubin's pers
 ### From Andrew Gelman (Students of Rubin, now Prof. at Columbia U.)
 
 * <font size=3>**Resolving disputes between J. Pearl and D. Rubin on causal inference**</font> [[**Go to post!**]](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/)  
-  <font size=3><font color=#008000>**Must Read!**</font> The post from Prof. Gelman shows the disputes from Rubin's perspective. It helps understand why Pearl's framework faces challenges in the statistic community while being successful in machine learning and social computing. </font>
+  <font size=3><font color=#008000>**Must Read!**</font> The post from Prof. Gelman shows the disputes from Rubin's perspective. It helps understand why Pearl's framework faces great challenges in the statistic community while being so successful in machine learning and social computing. </font>
 
 
 * <font size=3>**“The Book of Why” by Pearl and Mackenzie**</font> [[**Go to post!**]](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/)  
