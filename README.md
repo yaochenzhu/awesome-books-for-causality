@@ -50,3 +50,6 @@ A non-complete list of books to understand causality from Pearl and Rubin's pers
 
 * <font size=3>**More on Gelman’s views of causal inference**</font> [[**Go to post**]](http://causality.cs.ucla.edu/blog/index.php/2019/01/15/more-on-gelmans-views-of-causal-inference/)  
   <font size=3><font color=#008000>**Must Read!**</font> Pearl's next reponse to Gelman's critics on The book of why. </font>
+  
+
+Deeply appreciated if you have more resources to add to the list.
