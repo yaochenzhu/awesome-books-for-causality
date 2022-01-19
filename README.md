@@ -32,7 +32,7 @@
 ## Disputes between Pearl and Rubin
  Not necessarily books. Posts and papers are included.
 
-### From Andrew Gelman (Students of Rubin, now Prof. at Columbia U.)
+### From Andrew Gelman (Student of Rubin, now Prof. at Columbia U.)
 
 * <font size=3>**Resolving disputes between J. Pearl and D. Rubin on causal inference**</font> [[**Go to post**]](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/)   
   <font size=3><font color=#008000>**Must Read!**</font> The post from Prof. Gelman shows the disputes from Rubin's perspective. It helps understand why Pearl's framework faces great challenges in the statistic community while being so successful in machine learning and social computing. </font>
