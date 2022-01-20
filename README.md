@@ -52,7 +52,7 @@
   <font size=3><font color=#008000>**Must Read!**</font> Pearl's next reponse to Gelman's critics on The book of why. </font>
 
 
-## Acknowledgement
+## Acknowledgment
 - Many thanks to my advisor Prof. [Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/index.html) for his mentoring and guidance.   
 - Many thanks to Prof. [Yongfeng Zhang](http://yongfeng.me) for his non-withholdingly sharing of his knowledge in causality.   
 - Thank my teammate [Xubin Ren](https://github.com/Re-bin), [Jing Yi](https://github.com/jing-1), [Jiayi Xie](https://github.com/JennyXieJiayi) for their constructive discussions.
