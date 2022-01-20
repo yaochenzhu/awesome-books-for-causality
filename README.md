@@ -12,7 +12,7 @@
 
 * <font size=3>**Causal inference in statistics: A primer**</font>  
   <font size=3>&nbsp; &nbsp; &nbsp; *by Madelyn Glymour, Judea Pearl, Nicholas P Jewell, 2016. [**Get Book**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bAipNH8AAAAJ&cstart=20&pagesize=80&citation_for_view=bAipNH8AAAAJ:35N4QoGY0k4C)* </font>   
-  <font size=3><font color=#008000>**Must Read!**</font> The essense of causal graph, adjustment, and counterfuactuals in FOUR easy-to-follow chapters.</font>
+  <font size=3><font color=#008000>**Must Read!**</font> The essense of causal graph, adjustment, and counterfactuals in FOUR easy-to-follow chapters.</font>
 
 * <font size=3>**Causality: Models, Reasoning, and Inference**</font>  
   <font size=3>&nbsp; &nbsp; &nbsp; *by Judea Pearl, 2009. [**Get Book**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bAipNH8AAAAJ&citation_for_view=bAipNH8AAAAJ:u-x6o8ySG0sC)* </font>   
