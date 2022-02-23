@@ -45,6 +45,9 @@
 
 ### From Judea Pearl (Prof. at UCLA)
 
+* <font size=3>**Chapter 8, The Book of Why?**</font> [[**Get book**]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bAipNH8AAAAJ&citation_for_view=bAipNH8AAAAJ:EsrhoZGmrkoC)   
+  <font size=3><font color=#008000>**Must Read!**</font> Pearl's overall discussion of the short comings of Rubin's potential outcome framework. </font>
+
 * <font size=3>**Can causal inference be done in statistical vocabulary?**</font> [[**Go to post**]](http://causality.cs.ucla.edu/blog/index.php/2019/01/09/can-causal-inference-be-done-in-statistical-vocabulary/)   
   <font size=3><font color=#008000>**Must Read!**</font> Pearl's initial reponse to Gelman's critics on The book of why. </font>
 
