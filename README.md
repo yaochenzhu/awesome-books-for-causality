@@ -30,7 +30,7 @@
 ### 
 
 
-## A Mixed of Both
+## A Mixure of Both Frameworks
 
 ###
 
