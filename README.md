@@ -36,7 +36,7 @@
 
 * <font size=3>**Causal Inference for The Brave and True**</font>  
   <font size=3>&nbsp; &nbsp; &nbsp; *Matheus Facure, 2021. [**Get Book**](https://matheusfacure.github.io/python-causality-handbook)* </font>   
-  <font size=3><font color=#008000>**[Must Read]**</font> A new book that I have found recently that describes causality in an amazing mixture of Pearl's and Rubin's frameworks.</font>
+  <font size=3><font color=#008000>**[Must Read]**</font> A new book that describes causality in an amazing mixture of Pearl's and Rubin's frameworks.</font>
 
 ### 
 
